@@ -20,7 +20,7 @@ import Link from "next/link";
 
 export default function Home() {
   
-  const youtubeVideoUrl = "https://www.youtube.com"; 
+  const youtubeVideoUrl = "https://youtu.be/dQw4w9WgXcQ?si=yM19K-yn4B418ik7"; 
 
   const creators = [
     {
